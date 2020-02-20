@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "128868220989",
+    "firebase_url": "https://pinkpotato-dev-project-388be.firebaseio.com",
+    "project_id": "pinkpotato-dev-project-388be",
+    "storage_bucket": "pinkpotato-dev-project-388be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128868220989:android:b0abe6d1f5996cc19e2a54",
+        "android_client_info": {
+          "package_name": "io.github.pinkpotato.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128868220989-o5lrq31sd2pfp31tf24anhbcf0cvn6kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPxKg3-RBoDJcOaBw1h3m6HpESbH1Wkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128868220989-o5lrq31sd2pfp31tf24anhbcf0cvn6kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128868220989:android:32d4181c095265fe9e2a54",
+        "android_client_info": {
+          "package_name": "io.github.pinkpotato.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128868220989-o5lrq31sd2pfp31tf24anhbcf0cvn6kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPxKg3-RBoDJcOaBw1h3m6HpESbH1Wkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128868220989-o5lrq31sd2pfp31tf24anhbcf0cvn6kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
